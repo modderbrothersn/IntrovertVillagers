@@ -1,0 +1,30 @@
+{
+  "entity.villager.ambient": {
+    "sounds": [ { "name": "silent", "volume": 1.0, "pitch": 1.0 } ],
+    "replace": true
+  },
+  "entity.villager.death": {
+    "sounds": [ { "name": "silent", "volume": 1.0, "pitch": 1.0 } ],
+    "replace": true
+  },
+  "entity.villager.hurt": {
+    "sounds": [ { "name": "silent", "volume": 1.0, "pitch": 1.0 } ],
+    "replace": true
+  },
+  "entity.villager.no": {
+    "sounds": [ { "name": "silent", "volume": 1.0, "pitch": 1.0 } ],
+    "replace": true
+  },
+  "entity.villager.trade": {
+    "sounds": [ { "name": "silent", "volume": 1.0, "pitch": 1.0 } ],
+    "replace": true
+  },
+  "entity.villager.yes": {
+    "sounds": [ { "name": "silent", "volume": 1.0, "pitch": 1.0 } ],
+    "replace": true
+  },
+  "entity.villager.celebrate": {
+    "sounds": [ { "name": "silent", "volume": 1.0, "pitch": 1.0 } ],
+    "replace": true
+  }
+}
